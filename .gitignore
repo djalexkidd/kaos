@@ -1,0 +1,13 @@
+# Fichiers conservés dans le dépôt
+*
+!/.gitignore
+!/Makefile
+!/README.md
+!/src/
+!/src/**/
+!/tests/
+!/tests/**/
+!/tools/
+!/tools/**/
+!*.c
+!*.h
